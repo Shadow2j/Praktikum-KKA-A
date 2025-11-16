@@ -273,9 +273,13 @@ Alur kerja algoritma ini adalah:
 Contoh penerapan:
 
 * Inisiasi CNF
-![alt text](image-1.png)
+
+<img width="1009" height="379" alt="image" src="https://github.com/user-attachments/assets/eeb11d02-c20e-47b1-9efe-0b513a62eb68" />
+<br>
 * Iterasi Resolusi dan hasil:
-![alt text](image-2.png)
+
+<img width="974" height="196" alt="image" src="https://github.com/user-attachments/assets/1b5ad7d5-42a1-406c-9dfd-de9e048bed1d" />
+
 
 **2.4.3. Forward and backward chaining**
 

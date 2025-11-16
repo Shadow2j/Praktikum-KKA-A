@@ -94,9 +94,10 @@ Kasus tersebut mendefinisikan world wumpus beserta KB-nya. World wumpusnya berup
 * Breeze ada di [1, 1] dan [2, 1]
 * No breeze [1, 1]
 
-Maka di dapatkan state world seperti berikut:
+Maka didapatkan state world seperti berikut:
 
-![alt text](image.png)
+<img width="303" height="228" alt="image" src="https://github.com/user-attachments/assets/33b612ea-9ce6-46b8-a4eb-3d63c0eab81a" />
+
 
 
 **2.3. Knowledge-based agents**
@@ -170,7 +171,9 @@ pl_true(kb, model) => pl_true(alpha, model)` yang ekivalen dengan `pl_true(kb, m
 
 Contoh Penerapan:
 * Inisiasi simbol & entail truth value:
-![alt text](image-4.png)
+
+<img width="980" height="104" alt="image" src="https://github.com/user-attachments/assets/46e4be1b-b7e6-4178-954a-6809797ea1fc" />
+
 
 **2.4.2. Proof by Resolution**
 

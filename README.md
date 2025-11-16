@@ -7,17 +7,9 @@
 
 ---
 
-## 📖 **Deskripsi**
-
-[Tambahkan ringkasan singkat tentang isi laporan ini di sini. Jelaskan tujuan utama, topik yang dibahas, dan hasil utamanya.]
+### **Bab 1: Pendahuluan**
 
 ---
-
-## 🛠️ **Struktur Laporan**
-
-Laporan ini diorganisasikan ke dalam bab-bab utama sebagai berikut:
-
-### **Bab 1: Pendahuluan**
 
 ### **Bab 2: Pembahasan**
 Bagian ini membahas secara mendalam topik-topik kunci, termasuk:

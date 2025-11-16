@@ -311,7 +311,9 @@ Alur kerja algoritma:
 Algoritma menggunakan KB yang definit (derived dari PropKB) untuk menyimpan klausa definit. PropDefiniteKB akan menyediakan list klausa yang memiliki symbol p dalam premisnya. Selanjutnya algoritma akan melakukan pop simbol p pada setiap interasi agenda.
 
 Contoh penerapan:
-![alt text](image-5.png)
+
+<img width="989" height="708" alt="image" src="https://github.com/user-attachments/assets/9a11363e-e6a1-450b-967d-6707c593d055" />
+
 
 ### **Bab 3: Kesimpulan**
 ---

@@ -1,17 +1,9 @@
-# JUDUL LAPORAN ANDA
-
-**[Subjudul Laporan, jika ada]**
-
+# Laporan Praktikum Proporsional Logic KKA A
 ---
-
-## 👥 **Kontributor**
-
-Laporan ini disusun oleh:
 
 | Nama | NRP |
 | :--- | :--- |
 | Raymond Julius Pardosi | 5025241268 |
-| ... | ... |
 
 ---
 
